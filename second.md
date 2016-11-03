@@ -7,3 +7,4 @@ $$$$
 $$
 even newer
 grrr...
+with inspect
