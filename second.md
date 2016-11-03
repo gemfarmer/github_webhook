@@ -12,3 +12,5 @@ one line
 again
 with previous commit sha
 contents
+again
+something else
