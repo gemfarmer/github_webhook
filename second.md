@@ -25,3 +25,4 @@ pull_request_comments
 reply
 comments
 from app
+new method name
