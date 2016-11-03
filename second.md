@@ -11,3 +11,4 @@ with inspect
 one line
 again
 with previous commit sha
+contents
