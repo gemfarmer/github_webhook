@@ -34,3 +34,4 @@ else
 6
 try get
 contents
+empty
