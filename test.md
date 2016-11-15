@@ -20,3 +20,5 @@ make sense to me
 test
 waka waka
 lololo
+one test
+multiple lines added
