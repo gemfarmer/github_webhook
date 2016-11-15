@@ -17,5 +17,3 @@ start, stop
 start, stop
 again
 labels
-with different auth
-pull request without 2FA
