@@ -9,11 +9,11 @@ $$
 even newer
 grrr...grr
 6769
-try get
++try get
 contents
 empty
 enhance, enhance
 start, stop
 start, stop, don't start, don't stop
-again
++against
 labels are replaced again and again
