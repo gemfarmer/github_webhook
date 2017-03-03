@@ -1,1 +1,1 @@
-Text from third file what more text guys?
+Text from third file
