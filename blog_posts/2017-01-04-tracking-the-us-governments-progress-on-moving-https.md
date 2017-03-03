@@ -1,17 +1,3 @@
----
-title: "Tracking the U.S. government's progress on moving to HTTPS"
-date: 2017-01-04
-authors:
-- eric
-tags:
-- https
-- security
-- pulse.cio.gov
-excerpt: "The White House HTTPS policy generated significant HTTPS adoption in the U.S. government. HTTPS is now used for most web requests to executive branch .gov websites, and the government now outpaces the private sector on HTTPS."
-image: /assets/blog/https-progress/white-house-https.png
-hero: false
----
-
 Recognizing this, in June 2015, the White House released [M-15-13](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf), a "Policy to Require Secure Connections across Federal Websites and Web Services". This policy requires all federal web servers to [support and enforce HTTPS connections over the public internet](https://https.cio.gov/#guidelines).
 
 This policy also requires the use of [HTTP Strict Transport Security](https://https.cio.gov/hsts/) (HSTS), which gives permission to web browsers and other clients to enforce HTTPS directly, and disables the ability for users to click through certificate warnings.
