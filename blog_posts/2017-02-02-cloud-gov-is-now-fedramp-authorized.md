@@ -21,7 +21,7 @@ images:
 hero: false
 ---
 
-Open Source software. More Open Source software created by the U.S. Government
+This is Open Source software. More Open Source software created by the U.S. Government
 
 <figure class="blog-figure-center">
   <img src="{{site.baseurl}}{{page.images[0]}}" alt="The cloud.gov logo" height="67">
