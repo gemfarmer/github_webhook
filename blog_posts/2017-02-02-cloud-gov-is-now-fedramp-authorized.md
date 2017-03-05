@@ -21,6 +21,8 @@ images:
 hero: false
 ---
 
+Open Source software.
+
 <figure class="blog-figure-center">
   <img src="{{site.baseurl}}{{page.images[0]}}" alt="The cloud.gov logo" height="67">
   <img src="{{site.baseurl}}{{page.images[1]}}" alt="The fed ramp logo" height="67">
