@@ -21,6 +21,9 @@ images:
 hero: false
 ---
 
+This is Open Source software. More Open Source software created by the U.S. Government. But 'guys' isn't caught.
+
+How many times must a post be edited, before you can call it Open Source.
 <figure class="blog-figure-center">
   <img src="{{site.baseurl}}{{page.images[0]}}" alt="The cloud.gov logo" height="67">
   <img src="{{site.baseurl}}{{page.images[1]}}" alt="The fed ramp logo" height="67">
