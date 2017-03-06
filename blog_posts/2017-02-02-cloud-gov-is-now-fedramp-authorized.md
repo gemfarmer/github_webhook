@@ -21,7 +21,7 @@ images:
 hero: false
 ---
 
-This is Open Source software. More Open Source software created by the U.S. Government
+This is Open Source software. More Open Source software created by the U.S. Government. But 'guys' isn't caught.
 
 How many times must a post be edited, before you can call it Open Source.
 <figure class="blog-figure-center">
